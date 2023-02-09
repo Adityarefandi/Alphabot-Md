@@ -14,7 +14,7 @@ global.APIKeys = {
 
 // setting 
 global.autoread = true // auto read message
-global.autobio = true 
+global.autobio = false 
 global.userRegister = false 
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
@@ -31,7 +31,7 @@ global.ownername= "𝓐𝓭𝓲𝓽𝔂𝓪 𝓡𝓮𝓯𝓪𝓷𝓭𝓲" //nama
 global.myweb ="https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0" //bebas asal jan hapus
 global.youtube = "https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0" //bebas asal jan hapus
 global.myweb2 = "https://chat.whatsapp.com/KosmbTPMlB2DvXh1R93ns0" //bebas
-global.email = "gua jomblo coy😭" //bebas
+global.email = "YTTA" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['62887435047326'] //premium user
